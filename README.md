@@ -1,6 +1,6 @@
 # JavaScript Basic Development Environment
 
-##List of components
+## List of components
 
 * Repository
 * Package Management
